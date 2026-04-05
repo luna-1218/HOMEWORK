@@ -2,7 +2,7 @@ git init
 git remote add origin 깃허브 링크
 get add .
 git commit -m "커밋 메세지"
-git push origin master
+git push origin main
 
 
 
