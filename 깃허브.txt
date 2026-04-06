@@ -1,6 +1,6 @@
 git init
 git remote add origin 깃허브 링크
-get add .
+git add .
 git commit -m "커밋 메세지"
 git push origin main
 
